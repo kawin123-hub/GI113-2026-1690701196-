@@ -3,7 +3,7 @@
  * No. 13
  *Section: GI113
  */
-namespace Lap04
+namespace Lab04
 {
     class Program
     {
